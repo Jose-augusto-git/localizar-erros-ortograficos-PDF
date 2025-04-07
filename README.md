@@ -29,3 +29,14 @@ Este projeto em Python utiliza OCR e verificação ortográfica para identificar
 
 ```bash
 pip install pymupdf pyspellchecker pillow
+```
+
+---
+
+### Tela
+![image](https://github.com/user-attachments/assets/a4af7bfb-3cb3-409b-a533-d36e96e8d5a8)
+
+![image](https://github.com/user-attachments/assets/4f6d2e5b-a57b-4c09-8aee-98438ef1ec7a)
+
+
+
