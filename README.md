@@ -34,9 +34,11 @@ pip install pymupdf pyspellchecker pillow
 ---
 
 ### Tela
-![image](https://github.com/user-attachments/assets/a4af7bfb-3cb3-409b-a533-d36e96e8d5a8)
+<img width="1599" height="828" alt="image" src="https://github.com/user-attachments/assets/d0d439ab-1a46-4c0a-92f3-9cfc244d7289" />
 
-![image](https://github.com/user-attachments/assets/4f6d2e5b-a57b-4c09-8aee-98438ef1ec7a)
+
+<img width="1599" height="829" alt="image" src="https://github.com/user-attachments/assets/8c32f768-0e31-48d4-a442-f23e68757d13" />
+
 
 
 
